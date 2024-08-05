@@ -1,0 +1,8 @@
+https://leetcode.com/problems/factorial-trailing-zeroes/description/
+
+Solve the problem using mod and div
+Having 5 in the factorial will contribute to trailing 0
+For numbers of 25 do a loop to find the count of 5 
+Factorial of n/5  till 0
+In each iteration, we divide n by 5 and add the result to count. This counts how many multiples of 5, 25, 125, etc., contribute to the trailing zeros.
+The multiple of 5 will contribute a 0
