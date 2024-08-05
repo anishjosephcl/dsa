@@ -1,0 +1,6 @@
+Range addition 
+
+An integer n representing the size of the array.
+An array of operations, where each operation is a triplet [start,end,inc].
+Use Cumulative sum
+Adding the number to all the positions
