@@ -5,3 +5,5 @@ Explanation: We can pick from all 3 trees.
 One way is creation of sub arrays starting from first element and incrementing
 
 Keep moving to left and increment right so that always it is not required to calculate multiple times
+
+Do not solve the same problem within the same window
